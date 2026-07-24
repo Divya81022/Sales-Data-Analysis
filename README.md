@@ -82,21 +82,21 @@ Sales-Data-Analysis/
 
 ![Category Sales](images/category_sales.png)
 
-### Monthly Sales Trend
-
-![Monthly Sales Trend](images/monthly_sales_trend.png)
-
-### Sales vs Profit Analysis
-
-![Sales vs Profit](images/sales_vs_profit.png)
-
 ### Region-wise Sales
 
 ![Region Sales](images/region_sales.png)
 
+### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
 ### Top 10 Products
 
 ![Top Products](images/top10_products.png)
+
+### Sales vs Profit Analysis
+
+![Sales vs Profit](images/sales_vs_profit.png)
 
 ---
 
